@@ -1,0 +1,6 @@
+keras==2.3.1
+Flask==1.1.2
+numpy==1.16.4
+opencv
+werkzeug==1.0.1
+gevent==20.6.2
